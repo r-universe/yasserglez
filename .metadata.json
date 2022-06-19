@@ -1,0 +1,10 @@
+[
+  {
+    "package": "copulaedas",
+    "oncran": true
+  },
+  {
+    "package": "vines",
+    "oncran": true
+  }
+]

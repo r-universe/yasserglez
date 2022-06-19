@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "copulaedas"]
+	path = copulaedas
+	url = https://github.com/yasserglez/copulaedas
+	shallow = true
+	registered = true
+[submodule "vines"]
+	path = vines
+	url = https://github.com/yasserglez/vines
+	shallow = true
+	registered = true
